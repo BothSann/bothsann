@@ -4,9 +4,8 @@
 </div>
 
 <div align="center">
-  <h2>✨ My Github Stats ✨</h2>
-  <br>
-  
+<!--   <h2>✨ My Github Stats ✨</h2>
+  <br> -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/bothsann/github-readme-stats">
       <img height="200" 
