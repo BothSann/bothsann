@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_text=MyPageVisitors" />
 
 <div align="center">
   <h1>Hey visitor, I'm Sopheakboth! 👋</h1>
@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors) -->
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_text=MyPageVisitors) -->
 
 <!-- [![Both Sann's GitHub stats](https://github-readme-stats.vercel.app/api?username=bothsann&show_icons=true&theme=great-gatsby)](https://github.com/bothsann/github-readme-stats)
 [![Both Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bothsann&layout=compact)](https://github.com/bothsann/github-readme-stats)
