@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
+
 <div align="center">
   <h1>Hey visitor, I'm Sopheakboth! 👋</h1>
   <br>
@@ -18,26 +20,12 @@
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors) -->
 
 <!-- [![Both Sann's GitHub stats](https://github-readme-stats.vercel.app/api?username=bothsann&show_icons=true&theme=great-gatsby)](https://github.com/bothsann/github-readme-stats)
 [![Both Sann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bothsann&layout=compact)](https://github.com/bothsann/github-readme-stats)
 [![Both Sann's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bothsann&layout=compact)](https://github.com/bothsann/github-readme-stats)
 -->
-
-
-
 
 <!-- <a href="https://github.com/bothsann/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bothsann&layout=compact&card_width=320" />
