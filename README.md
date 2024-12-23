@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_text=MyPageVisitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bothsann.visitor-badge&left_text=vistors" />
 
 <div align="center">
   <h1>Hey visitor, I'm Sopheakboth! 👋</h1>
